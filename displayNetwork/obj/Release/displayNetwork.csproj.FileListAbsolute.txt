@@ -1,0 +1,16 @@
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\displayNetwork.exe.config
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\displayNetwork.exe
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\displayNetwork.pdb
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\SimpleWifi.dll
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\Microsoft.WindowsAPICodePack.xml
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\SimpleWifi.xml
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.csproj.AssemblyReference.cache
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.csproj.SuggestedBindingRedirects.cache
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.Form1.resources
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.Properties.Resources.resources
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.csproj.GenerateResource.cache
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.csproj.CoreCompileInputs.cache
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.csproj.CopyComplete
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.exe
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.pdb
