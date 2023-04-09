@@ -14,3 +14,8 @@ D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.c
 D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.csproj.CopyComplete
 D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.exe
 D:\CampusNet\Segurity\displayNetwork\displayNetwork\obj\Release\displayNetwork.pdb
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\CXuesong.Shims.VisualBasic.Devices.dll
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\CXuesong.Shims.VisualBasic.Devices.pdb
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\CXuesong.Shims.VisualBasic.Devices.xml
+D:\CampusNet\Segurity\displayNetwork\displayNetwork\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
